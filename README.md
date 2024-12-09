@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a <a href="https://www.linkedin.com/in/patricio-blanco-rafols-9b24502a8">Visit my LinkedIn Profile</a>target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricio blanco rafols" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patricio-blanco-rafols-9b24502a8" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013%2C_svg_version.svg" alt="LinkedIn Logo" width="40" height="40" align="center"/>
+</a>src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricio blanco rafols" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
